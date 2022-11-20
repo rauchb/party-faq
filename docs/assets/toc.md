@@ -3,23 +3,14 @@ layout: single
 title: Table of Contents
 ---
 
-### Background
-- [Background](https://rauchb.github.io/RMI-5103/pages/background/)
-- [Root Cause Analysis](https://rauchb.github.io/RMI-5103/pages/rootcause/)
+### Getting Here
+- [Getting Here](https://rauchb.github.io/RMI-5103/pages/getting-here/)
 
-### Risks
-- [For Patients](https://rauchb.github.io/RMI-5103/pages/exposure/patient/)
-- [For Hospitals](https://rauchb.github.io/RMI-5103/pages/exposure/hospital/)
+### What to Bring
+- [What to Bring](https://rauchb.github.io/RMI-5103/pages/bring/)
 
-### Analysis
-- [Summary of Recommendations](https://rauchb.github.io/RMI-5103/pages/analysis/)
-- [Near Misses](https://rauchb.github.io/RMI-5103/pages/analysis/nearmiss/)
-- [Just Culture](https://rauchb.github.io/RMI-5103/pages/analysis/culture/)
-- [Action and Feedback](https://rauchb.github.io/RMI-5103/pages/analysis/feedback/)
+### Odds & Ends
+- [Odds & Ends](https://rauchb.github.io/RMI-5103/pages/potpourri/)
 
-
-# Additional Pages
-- [Home](https://rauchb.github.io/RMI-5103/)
-- [About](https://rauchb.github.io/RMI-5103/assets/about/)
-- [Sources](https://rauchb.github.io/RMI-5103/assets/sources/)
-- [Table of Contents](https://rauchb.github.io/RMI-5103/assets/toc/)
+# Source Files
+- [Github](https://github.com/rauchb/party-faq/)

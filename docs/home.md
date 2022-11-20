@@ -6,30 +6,30 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/title-image-dark.jpg
 excerpt: >
-  This wiki summarizes the frequency and severity of risks associated with underreporting medical errors.<br />
+  Come here for your frequently asked questions.<br />
 
 feature_row:
   - image_path: /assets/images/rca-1600-980.png
-    alt: "background"
-    title: "Background and RCA"
-    excerpt: "Understand the underreporting problem and the primary root causes."
-    url: "/pages/background/"
+    alt: "getting-here"
+    title: "Getting Here"
+    excerpt: "Travel, parking, and lodging."
+    url: "/pages/getting-here/"
     btn_class: "btn--primary"
-    btn_label: "Read more"
+    btn_label: "Go"
   - image_path: /assets/images/risk-gauge-1600-980.jpg
-    alt: "rca"
-    title: "Risk Exposures"
-    excerpt: "Identify the downstream effects of underreporting errors and the associated risks."
-    url: "/pages/exposure/patient/"
+    alt: "food-drink"
+    title: "Food & Drink"
+    excerpt: "What and when to expect libations."
+    url: "/pages/food-drink/"
     btn_class: "btn--primary"
-    btn_label: "Read more"
+    btn_label: "Go"
   - image_path: /assets/images/recommendations-1600-980.png
-    alt: "effects"
-    title: "Analysis"
-    excerpt: "Explore recommendations for risk management and mitigation."
-    url: "/pages/analysis/"
+    alt: "potpourri"
+    title: "Odds & Ends"
+    excerpt: "Potpourri for $400, Alex."
+    url: "/pages/potpourri/"
     btn_class: "btn--primary"
-    btn_label: "Read more"      
+    btn_label: "Go"      
 ---
 
 {% include feature_row %}

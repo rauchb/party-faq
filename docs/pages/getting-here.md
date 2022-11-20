@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Background
-permalink: /pages/background/
+title: Getting Here
+permalink: /pages/getting-here/
 ---
 
 Medical errors are estimated to be the eighth leading cause of death in the United States, with the Institute of Medicine (IOM) estimating up to 98,000 deaths annually from this single cause <sup>[[7]](https://rauchb.github.io/RMI-5103/assets/sources/#7)</sup>. Errors that lead to adverse events, such as patient harm, are **preventable medical errors**. Underreporting of preventable medical errors has been estimated between 50% and 96% annually.

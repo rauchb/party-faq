@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Just Culture
-permalink: /pages/analysis/culture/
+title: Food & Drink
+permalink: /pages/food-drink/
 ---
 
 While many reporting systems offer a promise of anonymity and protection to the reporter, there are high levels of fear and hesitancy around error reporting. In a survey of pediatric physicians and nurses, 17.5% indicated they were concerned about being blamed or judged as incompetent when self-reporting errors<sup>[[7]](https://rauchb.github.io/RMI-5103/assets/sources/#7)</sup>. Reducing these fears will not be possible through a system or process change, but rather will be dependent on a culture change embraced by hospital leadership. 

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Root Cause Analysis
-permalink: /pages/rootcause/
+title: Odds & Ends
+permalink: /pages/potpourri/
 ---
 
 There are a growing number of studies that examine the barriers to reporting medical errors. The most commonly cited causes of underreporting are captured below. 

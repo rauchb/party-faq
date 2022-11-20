@@ -1,31 +1,13 @@
 main:
-  - title: "About this Site"
-    url: /assets/about/
   - title: "Table of Contents"
     url: /assets/toc/
-  - title: "Sources"
-    url: /assets/sources/
 
 pages:
-  - title: Background
+  - title: FAQs
     children:
-      - title: "Background"
-        url: /pages/background/
-      - title: "Root Cause Analysis"
-        url: /pages/rootcause/
-  - title: Risks
-    children:
-      - title: "For Patients"
-        url: /pages/exposure/patient/
-      - title: "For Hospitals"
-        url: /pages/exposure/hospital/
-  - title: Analysis
-    children:
-      - title: "Summary of Recommendations"
-        url: /pages/analysis/
-      - title: "Near Misses"
-        url: /pages/analysis/nearmiss/
-      - title: "Just Culture"
-        url: /pages/analysis/culture/
-      - title: "Action and Feedback"
-        url: /pages/analysis/feedback/
+      - title: "Getting Here"
+        url: /pages/getting-here/
+      - title: "What to Bring"
+        url: /pages/bring/
+      - title: "Odds & Ends"
+        url: /pages/potpourri

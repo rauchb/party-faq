@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/map.png
     alt: "getting-here"
     title: "Getting Here"
-    excerpt: "Travel, parking, and lodging."
+    excerpt: "Planes, trains, and automobiles (but mostly just parking)."
     url: "/pages/getting-here/"
     btn_class: "btn--primary"
     btn_label: "Go"

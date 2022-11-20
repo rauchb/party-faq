@@ -4,14 +4,16 @@ title: What to Bring
 permalink: /pages/bring/
 ---
 
-While many reporting systems offer a promise of anonymity and protection to the reporter, there are high levels of fear and hesitancy around error reporting. In a survey of pediatric physicians and nurses, 17.5% indicated they were concerned about being blamed or judged as incompetent when self-reporting errors<sup>[[7]](https://rauchb.github.io/RMI-5103/assets/sources/#7)</sup>. Reducing these fears will not be possible through a system or process change, but rather will be dependent on a culture change embraced by hospital leadership. 
+### Can I contribute food, dessert, or beverages?
+Two meals from local Philly establishments will be available throughout the day: Ricci's italian subs (aka hoagies) for lunch and Mission Tacqueria for dinner. If you have specific dietary restrictions, please bring some food that you can enjoy!
 
-The medical feild is notorious for breeding the mentality that the next generation of doctors has it easier, which is well documented and evidenced in the practices around residency and training programs. As such, there are high stakes in the performance for young doctors. Across most healthcare organizations, this leads to a reluctance to admit errors (much less call attention to them through self-reporting). Without a culture of safety, providers of all levels are insufficiently motivated to report events. 
+Desserts and assorted beverages will also be prepared to meet guests' needs and wants. Please don't go out of your way to find something to bring. However, if you have a favorite recipe that you're looking for an excuse to make, or know of a local beer that you think I'd like, then these contributions would be welcome.
 
-<figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/raised-hand.jpg" alt="">
-</figure> 
+### Should I bring my human children?
+If you'd like to! There will be Legos and Disney movies available in the basement. 
 
->*In [a positive patient safety] environment, people are comfortable raising their hand to say, "I made a mistake," because they trust that the organization's response will be, "How was this possible?" instead of "Who did it?"* (ECRI)<sup>[[2]](https://rauchb.github.io/RMI-5103/assets/sources/#2)</sup>
+### Should I bring fur children?
+While pets are usually very welcome in this house, due to the high demand, this event will be limited to human attendees. 
 
-Visible leadership support of a safety culture is a top recommendation for achieving patient safety, including from the National Patient Safety Foundation<sup>[[2]](https://rauchb.github.io/RMI-5103/assets/sources/#2)</sup>. The leadership example must provide support for staff involved in an adverse patient event, rather than discipline or mandatory education (which are seen as punitive). 
+### What about gifts?
+Gifts are not required nor requested. Your presence is all I neeam looking for (really). For those of you who refuse to accept this fact, and Amazon wish list will be available to peruse soon. 

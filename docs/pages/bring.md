@@ -16,4 +16,7 @@ If you'd like to! There will be Legos and Disney movies available in the basemen
 While pets are usually very welcome in this house, due to the high demand, this event will be limited to human attendees. 
 
 ### What about gifts?
-Gifts are not required nor requested. Your presence is all I neeam looking for (really). For those of you who refuse to accept this fact, and Amazon wish list will be available to peruse soon. 
+Gifts are not required nor requested. Your presence is all I am looking for (really). For those of you who refuse to accept this fact, an Amazon wish list will be available to peruse soon. 
+
+
+[Next >>>](https://rauchb.github.io/party-faq/pages/potpourri/)

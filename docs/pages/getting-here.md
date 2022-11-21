@@ -20,7 +20,9 @@ Free parking (meaning you won't need to make a trip back to your car to put the 
 - On Carpenter between 16th and 15th (right side only)
 - On 18th between Catherine and Fitzwater
 
-Never park in front of a garage, crosswalk, or fire hydrant. 
+Be sure to never park in front of a driveway, crosswalk, or fire hydrant. 
 
 If you'd prefer to park in a garage, the [Lincoln Square Parking](https://goo.gl/maps/FptYUGYSjrYTDUPo7) garage is accessible from 15th Street between Washington and Carpenter. It is about an eight minute walk to my house from there. Weekend rate is $12 for the day.
 
+
+[Next >>>](https://rauchb.github.io/party-faq/pages/bring/)

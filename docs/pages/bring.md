@@ -16,7 +16,7 @@ If you'd like to! There will be Legos and Disney movies available in the basemen
 While pets are usually very welcome in this house, due to the high demand, this event will be limited to human attendees. 
 
 ### What about gifts?
-Gifts are not required nor requested. Your presence is all I am looking for (really). For those of you who refuse to accept this fact, an Amazon wish list will be available to peruse soon. 
+Your presence is all I am looking for to celebrate this year's activities(really). For those of you who refuse to accept this fact, I am participating in CHOP's spin-in to raise money for the pediatric Cardiac Center. You can support our fundraising team here: [https://chop.donordrive.com/participant/Bridget-Rauch](https://chop.donordrive.com/participant/Bridget-Rauch)
 
 
 [Next >>>](https://rauchb.github.io/party-faq/pages/potpourri/)

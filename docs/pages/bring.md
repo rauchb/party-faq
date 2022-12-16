@@ -19,4 +19,4 @@ While pets are usually very welcome in this house, due to the high demand, this 
 Your presence is all I am looking for to celebrate this year's activities(really). For those of you who refuse to accept this fact, I am participating in CHOP's spin-in to raise money for the pediatric Cardiac Center. You can support our fundraising team here: [https://chop.donordrive.com/participant/Bridget-Rauch](https://chop.donordrive.com/participant/Bridget-Rauch)
 
 
-[Next >>>](https://rauchb.github.io/party-faq/pages/potpourri/)
+[Next >>](https://rauchb.github.io/party-faq/pages/potpourri/)

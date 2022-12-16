@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/party.jpg
 excerpt: >
-  Come here for your frequently asked questions.<br />
+  Everything you need to know about the housewarming/birthday/graduation festivities.<br />
 
 feature_row:
   - image_path: /assets/images/map.png
